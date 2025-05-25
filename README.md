@@ -20,13 +20,13 @@ Currently nearing the end of military service as an officer and completing inves
 
 ## Professional Experience
 
-### Founder & Lead Developer | 2024–Present | laves.tech
+### Founder & Lead Developer | 2024–Present | Inves.tech
 - Developing a platform for building algorithmic trading strategies using Python.
 - Working with real-time trading API (Interactive Brokers, Alpaca).
 - Managing infrastructure on AWS EC2 and working with Docker.
 - Developing custom web interfaces and APIs (Django).
 
-### Founder & Lead Developer | 2024–Present | IRS Analyzer | (https://www.rsanalyzer.com)
+### Founder & Lead Developer | 2024–Present | RS Analyzer | (https://www.rsanalyzer.com)
 - Built a real estate data analysis and filtering system using data from Yad2 and Madlan.
 - Worked with large datasets and complex formulas using Python libraries (Pandas, NumPy).
 - Managed infrastructure on AWS EC2 and worked with Docker.
