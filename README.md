@@ -1,7 +1,7 @@
 # Tomer Meirovich
 
 📍 Location: Israel  
-📞 Phone: +972-54-456-6765  
+📞 Phone: +972-544-966-765  
 ✉️ Email: tomer@meirovich.co.il  
 🔗 LinkedIn: https://www.linkedin.com/in/tomer-meirovich-a07319281/
 🐙 Github: https://github.com/tomermeirovich
